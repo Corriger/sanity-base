@@ -6,62 +6,62 @@ export default {
     {
         name: 'name',
         title: 'Name',
-        type: 'string',
-        required: true
+        type: 'string'
     },
     {
-        name: 'dob',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
+        name: 'alias',
+        title: 'Alias',
+        type: 'string'
+    },
+    {
+        name: 'birthdate',
+        title: 'Birthdate',
+        type: 'string'
     },
     {
         name: 'height',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Height',
+        type: 'string'
+    },
     {
         name: 'weight',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Weight',
+        type: 'string'
+    },
     {
         name: 'species',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Species',
+        type: 'string'
+    },
     {
         name: 'gender',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Gender',
+        type: 'string'
+    },
     {
         name: 'orientation',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Orientation',
+        type: 'string'
+    },
     {
         name: 'occupation',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },    
+        title: 'Occupation',
+        type: 'string'
+    },
     {
-        name: 'alias',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
-    },   
+        name: 'status',
+        title: 'Status',
+        type: 'string'
+    },
     {
-        name: 'alias',
-        title: 'Alias\(es\)',
-        type: 'string',
-        required: true
+        name: 'appearance',
+        title: 'Appearance',
+        type: 'text'
+    },
+    {
+        name: 'personality',
+        title: 'Personality',
+        type: 'text'
     }
     ]
 }
